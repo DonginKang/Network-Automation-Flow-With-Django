@@ -1,4 +1,4 @@
 # Network-Automation-Flow-With-Django
 
 
-![ScreenShot](https://github.com/DonginKang/Network-Automation-Flow-With-Django/tree/master/ScreenShot/frist.PNG)
+![ScreenShot](https://raw.github.com/DonginKang/Network-Automation-Flow-With-Django/master/ScreenShot/frist.PNG)
